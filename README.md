@@ -1,16 +1,106 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sagar Patil</h1>
 
-<!--
-**SagarPatil005/SagarPatil005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Java Full Stack Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Java | Spring Boot | Hibernate | JSP | Servlet | MySQL
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BCA Graduate
+- 💻 Java Full Stack Developer
+- 🌱 Currently learning Spring Boot and REST APIs
+- 🔭 Working on real-world Java web applications
+- 💡 Interested in Backend & Full Stack Development
+- 🎯 Looking for Java Developer / Backend Developer opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Java Technologies
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Servlet](https://img.shields.io/badge/Servlet-Java-orange?style=for-the-badge)
+![JSP](https://img.shields.io/badge/JSP-Java-orange?style=for-the-badge)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 Employee Leave Management System
+
+Role-based web application for managing employees and leave requests.
+
+**Technologies:** Java, JSP, Servlet, Hibernate, MySQL, Bootstrap
+
+**Features:**
+- Admin & Employee Login
+- Employee Management
+- Leave Management
+- Approve / Reject Leave
+- Leave History
+- Dashboard
+
+👉 [View Project](YOUR_REPOSITORY_LINK)
+
+---
+
+### 🌐 Spring Boot REST API
+
+REST API developed using Spring Boot for backend application development.
+
+**Technologies:** Java, Spring Boot, Spring Data JPA, MySQL
+
+👉 [View Project](YOUR_REPOSITORY_LINK)
+
+---
+
+### 👨‍💼 Employee Management System
+
+CRUD-based employee management application.
+
+**Technologies:** Java, JSP, Servlet, JDBC, MySQL
+
+👉 [View Project](YOUR_REPOSITORY_LINK)
+
+---
+
+## 📚 Currently Learning
+
+- Spring Boot
+- Spring Security
+- REST API
+- React.js
+- Docker
+- Microservices
+
+---
+
+## 🤝 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_LINK) •
+[Email](mailto:YOUR_EMAIL)
+
+---
+
+⭐ Thanks for visiting my profile!
