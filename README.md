@@ -65,25 +65,7 @@ Role-based web application for managing employees and leave requests.
 
 ---
 
-### 🌐 Spring Boot REST API
 
-REST API developed using Spring Boot for backend application development.
-
-**Technologies:** Java, Spring Boot, Spring Data JPA, MySQL
-
-👉 [View Project](YOUR_REPOSITORY_LINK)
-
----
-
-### 👨‍💼 Employee Management System
-
-CRUD-based employee management application.
-
-**Technologies:** Java, JSP, Servlet, JDBC, MySQL
-
-👉 [View Project](YOUR_REPOSITORY_LINK)
-
----
 
 ## 📚 Currently Learning
 
@@ -98,8 +80,8 @@ CRUD-based employee management application.
 
 ## 🤝 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_LINK) •
-[Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/sagarpatil8834/) •
+[Email](mailto:sagarpatil8834@gmail.com)
 
 ---
 
