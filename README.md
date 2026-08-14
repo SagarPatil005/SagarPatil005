@@ -73,7 +73,6 @@ Role-based web application for managing employees and leave requests.
 - Spring Security
 - REST API
 - React.js
-- Docker
 - Microservices
 
 ---
