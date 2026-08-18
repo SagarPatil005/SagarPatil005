@@ -56,7 +56,7 @@ Role-based web application for managing employees and leave requests.
 **Features:**
 - Admin & Employee Login
 - Employee Management
-- Leave Management
+- Employee Leave Management
 - Approve / Reject Leave
 - Leave History
 - Dashboard
