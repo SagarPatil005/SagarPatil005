@@ -3,7 +3,7 @@
 <h3 align="center">Java Full Stack Developer</h3>
 
 <p align="center">
-  Java | Spring |Spring Boot | JSP | Hibernate | Servlet | MySQL
+  Java | Spring |Spring Boot | Hibernate | Servlet | MySQL
 </p>
 
 ---
