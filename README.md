@@ -12,7 +12,7 @@
 
 - 🎓 BCA Graduate
 - 💻 Java Full Stack Developer
-- 🌱 Currently learning Spring Boot and REST APIs
+- 🌱 Currently learning JavaScript(ES6) and React.js
 - 🔭 Working on real-world Java web applications
 - 💡 Interested in Backend & Full Stack Development
 - 🎯 Looking for Java Developer / Backend Developer opportunities
@@ -61,19 +61,34 @@ Role-based web application for managing employees and leave requests.
 - Leave History
 - Dashboard
 
-👉 [View Project](YOUR_REPOSITORY_LINK)
+👉 [View Project](https://github.com/SagarPatil005/EmployeeLeaveManagementSystem)
+
+
+### 💰 SmartLoan – Loan Management System
+
+A web-based loan management application for managing loan applications, EMI payments, and loan details.
+
+**Technologies:** Java, Spring Boot, Spring Security, JWT, Hibernate, MySQL, Bootstrap
+
+**Features:**
+- User Registration & Login with JWT Authentication
+- Loan Product Management
+- Loan Application & Approval
+- EMI Calculation
+- EMI Payment Management
+- Loan Status Tracking
+- Secure Role-Based Access
+
+👉 [View Project](https://github.com/SagarPatil005/smartloan/)
 
 ---
 
 
 
 ## 📚 Currently Learning
-
-- Spring Boot
-- Spring Security
-- REST API
+- javaScript(ES6)
 - React.js
-- Microservices
+
 
 ---
 
