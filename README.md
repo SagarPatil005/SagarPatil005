@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 BCA Graduate
-- 💻 Java Full Stack Developer
+- 💻 Certified Java Full Stack Developer
 - 🌱 Currently learning JavaScript(ES6) and React.js
 - 🔭 Working on real-world Java web applications
 - 💡 Interested in Backend & Full Stack Development
